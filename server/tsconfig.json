@@ -1,0 +1,7 @@
+{
+    "extends":"../options.json",
+    "compilerOptions": {
+      "rootDirs": ["./src","../core"],
+      "outDir": "./build",
+    },
+   }

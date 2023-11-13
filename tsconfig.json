@@ -1,0 +1,10 @@
+{
+    "extends":"./options.json",
+    "compilerOptions": {
+      "composite": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./build",
+    },
+
+   }
