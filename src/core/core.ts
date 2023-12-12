@@ -6,6 +6,5 @@ class Model {
 	}
 }
 
-const string = "eee";
 
 export { Model, string };
